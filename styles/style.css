@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* menu hamburguesa */
 .nav-menu-movil a {
   height: 50px;
